@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Harshit</h1>
-<h3 align="center">A passionate software engineer</h3>
-
+<div id="toc" >
+  <ul style="list-style: none">
+    <summary align="center">
+      <h1 align="center">Hi 👋, I'm Harshit</h1>
+    </summary>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Demo" style="display: block;" />
+    <h3 align="center">A passionate software engineer</h3>
+  </ul>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit-khattar&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-khattar" /> </p>
+
+
 
 - 🌱 I’m currently learning more about **Artificial Intelligence**
 
