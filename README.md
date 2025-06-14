@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning more about **Artificial Intelligence**
+- 🌱 I’m currently learning more about **Generative AI**
 
 - 👨‍💻 All of my projects are available at [hk14.tech](hk14.tech)
 
