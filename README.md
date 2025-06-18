@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning more about **Generative AI**
 
-- 👨‍💻 All of my projects are available at [hk14.tech](https://hk14.tech)
+- 👨‍💻 All of my projects are available at <a href="https://hk14.tech" target="_blank">hk14.tech</a>
 
 - 💬 Ask me about **Full-Stack Development, Algorithms, System Design**
 
