@@ -13,9 +13,10 @@
 
 - 🌱 I’m currently learning more about **Generative AI**
 
-- 👨‍💻 All of my projects are available at <a href="https://hk14.tech" target="_blank">hk14.tech</a>
-
 - 💬 Ask me about **Full-Stack Development, Algorithms, System Design**
+
+- 👨‍💻 Get to know more about me at <a href="https://hk14.tech" target="_blank">hk14.tech</a>
+
 
 - 📫 How to reach me: **hkhatter03@gmail.com**
 
