@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Full-Stack Development, Algorithms, System Design**
 
+- 👨‍💻 Get to know more about me at <a href="https://hk14.tech" target="_blank">hk14.tech</a>
+
 - 📫 How to reach me: **hkhatter03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
